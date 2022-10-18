@@ -37,9 +37,9 @@ I'm a developer that enjoys writing offensive tools in Nim in my spare time.
 
 ### Github Stats
 <a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zimawhit3&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zimawhit3&show_icons=true&theme=dark" />
 </a>
 <a>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimawhit3&layout=compact&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zimawhit3&layout=compact&show_icons=true&theme=dark" />
 </a>
 
